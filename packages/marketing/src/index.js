@@ -1,3 +1,3 @@
 // console.log("HELLO WORLD");
 
-import("./bootstrap");
+import('./bootstrap');
